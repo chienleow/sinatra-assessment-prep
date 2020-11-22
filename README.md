@@ -1,4 +1,4 @@
-# Sinatra Assessment Prep 
+# Sinatra Assessment Prep 👨🏻‍💻 👩🏻‍💻
 
 ### By ChiEn Leow, Alicia Reeves 
 
