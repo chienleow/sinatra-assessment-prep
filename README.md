@@ -2,7 +2,7 @@
 
 ### By ChiEn Leow, Alicia Reeves 
 
-## Possible assessment questions: 
+## Possible Assessment Questions: 
 
 - Write a migration to modify an existing table (creating migration, creating new model, adding to schema, understanding the convention, relationships) 
 
@@ -20,7 +20,7 @@
 
 - Write a helper method 
 
-My Review (ChiEn): 
+## My Review (ChiEn): 
 
 1. Sign up a user, show in browser then explain in code 
 
@@ -34,7 +34,7 @@ My Review (ChiEn):
 
 6. Create a new model, add table, make sure to include "foreign id" in another table that relates to this table. 
 
-My Review (Alicia): 
+## My Review (Alicia): 
 
 1. Request/response flow 
 
