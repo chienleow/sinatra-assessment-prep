@@ -38,29 +38,27 @@
 
 1. Request/response flow 
 
-- What does that mean to you? 
+ - What does that mean to you? 
 
-- How does a get request work, how does a post request work? What are the differences? 
+ - How does a get request work, how does a post request work? What are the differences? 
 
 2. Rendering vs Redirecting 
 
-- What does this mean to you? 
+ - What does this mean to you? 
 
 3. When logging in, I saw that you set a `session[user_id] = @user.id` 
 
-- What does this mean to you? What is the session in a Sintra app? 
+ - What does this mean to you? What is the session in a Sintra app? 
 
 4. has_secure_password 
 
-- What is it really? Read up on the lessons about bcrypt. (or, google bcyrpt and see if an article elsewhere explains it better than flatiron does) 
+ - What is it really? Read up on the lessons about bcrypt. (or, google bcyrpt and see if an article elsewhere explains it better than flatiron does) 
 
 5. And of course, ActiveRecord 
 
-- What is it? What does it afford you? (its a little more than just writing SQL for you). See if you can watch some videos on the topic.  
+ - What is it? What does it afford you? (its a little more than just writing SQL for you). See if you can watch some videos on the topic.  
 
-6. Had me create a new object in Tux and associate it with a user. Then walked me 
-
-through the `.build` method(as stated above) 
+6. Had me create a new object in Tux and associate it with a user. Then walked me through the `.build` method(as stated above) 
 
  
 
