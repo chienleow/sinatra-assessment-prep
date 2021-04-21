@@ -1,4 +1,5 @@
 # Sinatra Assessment Prep 👨🏻‍💻 👩🏻‍💻
+![Visits Badge](https://badges.pufler.dev/visits/chienleow/sinatra-assessment-prep)
 
 ### By ChiEn Leow, Alicia Reeves 
 
